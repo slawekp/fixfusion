@@ -33,9 +33,9 @@ podsumowanie_i_podziekowanie();
 ## Co będę z tego mieć?
 
 1. Mamy nadzieję, że dobrą zabawę w trakcie
-1. Satysfakcję po
-2. Nowe znajomości
-3. Lepsze narzędzia open source, których być może codziennie używasz
+2. Satysfakcję po
+3. Nowe znajomości
+4. Lepsze narzędzia open source, których być może codziennie używasz
 
 ## Co muszę umieć?
 
@@ -57,5 +57,5 @@ Dla osób, które takich list nie przygotują, organizatorzy postarają się dys
 
 ## Sponsorzy
 
-Chętnie. W pierwszej kolejności na jedzenie i picie dla uczestników. W drugiej kolejności na drobne upominki dla nich.
+**RedSky** ugości nas w swojej siedzibie oraz zapewni wyżywienie w trakcie imprezy. Dzięki!
 
