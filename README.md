@@ -1,8 +1,6 @@
 FixFusion
 =========
 
-FixFusion to otwarty hackathon mający na celu promocję otwartego oprogramowania poprzez zachęcenie programistów do pracy na rzecz projektów open source.
-
 ## Idea
 
 Zbieramy grupę programistów zainteresowanych zainwestowaniem kilku weekendowych godzin i pomagamy projektom open source dostępnym na platformie GitHub. Przez cały dzień naprawiamy błędy, dodajemy funkcje, uzupełniamy dokumentację, refaktorujemy, etc.
