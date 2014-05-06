@@ -3,7 +3,7 @@ FixFusion
 
 ## Idea
 
-Zbieramy grupę programistów zainteresowanych zainwestowaniem kilku weekendowych godzin i pomagamy projektom open source dostępnym na platformie GitHub. Przez cały dzień naprawiamy błędy, dodajemy funkcje, uzupełniamy dokumentację, refaktorujemy, etc.
+Zbieramy grupę entuzjastów wolnego oprogramowania (programistów, testerów, dokumentalistów) zainteresowanych zainwestowaniem kilku weekendowych godzin aby pomóc projektom open source dostępnym na platformie GitHub. Przez cały dzień naprawiamy błędy, dodajemy funkcje, uzupełniamy dokumentację, refaktorujemy, testujemy, etc.
 
 ## Kiedy i gdzie?
 **W sobotę 24 maja 2014 w siedzibie RedSky**. Od 9:00 do ostatniego żywego uczestnika.
