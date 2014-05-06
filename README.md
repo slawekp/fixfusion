@@ -15,7 +15,7 @@ W trakcie trwania imprezy RedSky zapewni przekąski i napoje. Dziękujemy!
 ```
 powitanie();
 
-while (mamy_jeszcze_czas) {
+while (trwa_fixfusion) {
     
     zadanie = mam_swoja_liste ? pobierz_z_listy() : wez_od_organizatorow();
     
