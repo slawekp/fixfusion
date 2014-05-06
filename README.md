@@ -6,7 +6,7 @@ FixFusion
 Zbieramy grupę programistów zainteresowanych zainwestowaniem kilku weekendowych godzin i pomagamy projektom open source dostępnym na platformie GitHub. Przez cały dzień naprawiamy błędy, dodajemy funkcje, uzupełniamy dokumentację, refaktorujemy, etc.
 
 ## Kiedy i gdzie?
-24 maja 2014 w siedzibie RedSky.
+24 maja 2014 w siedzibie RedSky. Od 9:00 do ostatniego żywego uczestnika.
 
 ## Przebieg hackathonu
 
@@ -45,8 +45,11 @@ Musisz posiadać wiedzę pozwalającą na kontrybucję do open source. Najlepiej
 
 Jeśli jesteś programistą i masz styczność z otwartym oprogramowaniem, to z pewnością na co dzień używasz narzędzi w których można coś naprawić lub ulepszyć. Zatem najbardziej korzystne dla Ciebie jest samodzielne przygotowanie przed hackathonem listy zadań. Hej, może być nawet jedno. Zalecamy jednak dołożenie czegoś łatwego, rezerwowego, żeby zbudować sobie motywację :) Jeśli przyniesiesz więcej zadań, to zawsze możesz podzielić się z innymi.
 
-Dla osób, które takich list nie przygotują, organizatorzy postarają się dysponować własnymi listami. Znajdziemy coś dla programistów JS, Pythona i PHP.
+Dla osób, które takich list nie przygotują, organizatorzy postarają się dysponować własnymi listami. 
 
+## Jakieś ograniczenia odnoścnie technologii?
+
+Żadnych. Podkreślmy jeszcze raz, że najlepszy scenariusz to ten, w którym sam przynosisz sobie pracę. Technologia czy język nie mają zatem znaczenia. Pula wspólna będzie jednak ograniczona najpewniej do Pythona, JS i PHP.
 
 ## Kto wygrywa hackathon?
 
