@@ -6,7 +6,9 @@ FixFusion
 Zbieramy grupę programistów zainteresowanych zainwestowaniem kilku weekendowych godzin i pomagamy projektom open source dostępnym na platformie GitHub. Przez cały dzień naprawiamy błędy, dodajemy funkcje, uzupełniamy dokumentację, refaktorujemy, etc.
 
 ## Kiedy i gdzie?
-24 maja 2014 w siedzibie RedSky. Od 9:00 do ostatniego żywego uczestnika.
+**W sobotę 24 maja 2014 w siedzibie RedSky**. Od 9:00 do ostatniego żywego uczestnika.
+
+W trakcie trwania imprezy RedSky zapewni przekąski i napoje. Dziękujemy!
 
 ## Przebieg hackathonu
 
@@ -58,7 +60,10 @@ Dla osób, które takich list nie przygotują, organizatorzy postarają się dys
 3. Dodatkowo, dla lubiących liczniki, podsumujemy uczestników ilościowo (pull requesty, linie kodu).
 4. Zależy nam na tym, żeby każdy uczestnik wydarzenia zakończył dzień z chociaż jednym pull requestem. Bo to miłe.
 
-## Sponsorzy
+## Ale fajne. Szkoda, że nie mogę być :(
 
-**RedSky** ugości nas w swojej siedzibie oraz zapewni wyżywienie w trakcie imprezy. Dzięki!
+Są jeszcze dwie możliwości:
+
+1. Siadasz do pracy zdalnie, a do nas zgłaszasz się wcześniej, żebyśmy mogli monitorować Twój postęp.
+2. Bardzo nam pomożesz przesyłając swoje propozycje zadań dla uczestników. Mogą to być błędy do naprawienia, funkcje do zaimplementowania czy nawet braki w dokumentacji. Nie ma słabych propozycji. No, może warto wcześniej oszacować, czy zadanie da się zamknąć w ciągu jednego dnia :)
 
