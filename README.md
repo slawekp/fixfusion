@@ -47,7 +47,7 @@ Jeśli jesteś programistą i masz styczność z otwartym oprogramowaniem, to z 
 
 Dla osób, które takich list nie przygotują, organizatorzy postarają się dysponować własnymi listami. 
 
-## Jakieś ograniczenia odnoścnie technologii?
+## Jakieś ograniczenia co do technologii?
 
 Żadnych. Podkreślmy jeszcze raz, że najlepszy scenariusz to ten, w którym sam przynosisz sobie pracę. Technologia czy język nie mają zatem znaczenia. Pula wspólna będzie jednak ograniczona najpewniej do Pythona, JS i PHP.
 
