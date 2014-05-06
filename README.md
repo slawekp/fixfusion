@@ -8,6 +8,8 @@ Zbieramy grupę programistów zainteresowanych zainwestowaniem kilku weekendowyc
 ## Kiedy i gdzie?
 **W sobotę 24 maja 2014 w siedzibie RedSky**. Od 9:00 do ostatniego żywego uczestnika.
 
+[Zapisy przez stronę wydarzenia na Facebooku.](https://www.facebook.com/events/1433608710221986/)
+
 W trakcie trwania imprezy RedSky zapewni przekąski i napoje. Dziękujemy!
 
 ## Przebieg hackathonu
@@ -67,3 +69,6 @@ Są jeszcze dwie możliwości:
 1. Siadasz do pracy zdalnie, a do nas zgłaszasz się wcześniej, żebyśmy mogli monitorować Twój postęp.
 2. Bardzo nam pomożesz przesyłając swoje propozycje zadań dla uczestników. Mogą to być błędy do naprawienia, funkcje do zaimplementowania czy nawet braki w dokumentacji. Nie ma słabych propozycji. No, może warto wcześniej oszacować, czy zadanie da się zamknąć w ciągu jednego dnia :)
 
+## Mam inne pytanie
+
+Możesz je zadać na [stronie wydarzenia na Facebooku](https://www.facebook.com/events/1433608710221986/) lub na GitHubie otwierając issue do tego projektu.
